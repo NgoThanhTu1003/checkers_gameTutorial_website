@@ -4,5 +4,5 @@ This project is a tutorial website that teaches how to play checkers. At the end
 (also dont pay attention to the comments, I was stressed with the deadline :)  )
 
 <a href="https://ngothanhtu1003.github.io/checkers_gameTutorial_website/">
-  <img src="/NgoThanhTu1003/checkers_gameTutorial_website/blob/master/titlePage.png" >
+  <img src="/NgoThanhTu1003/checkers_gameTutorial_website/titlePage.png" >
 </a>
